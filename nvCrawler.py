@@ -4,6 +4,7 @@ import urllib.parse
 import urllib.request
 import datetime
 import json
+
 client_id = "AjbGZV3FCHl3qUjClpjV"
 client_secret = "DZnl0hD_bV"
 
